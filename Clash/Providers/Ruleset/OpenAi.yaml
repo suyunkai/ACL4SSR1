@@ -1,5 +1,5 @@
 payload:
-  # 内容：OpenAi
-  # 数量：14条
+  # 内容：paypal
+  # 数量：1条
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-SUFFIX,paypal.com
