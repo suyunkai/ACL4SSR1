@@ -1,5 +1,5 @@
 # 内容：指定节点
-# 数量：1
 DOMAIN-SUFFIX,fakeopen.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
