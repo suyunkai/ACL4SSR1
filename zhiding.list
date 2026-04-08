@@ -8,3 +8,14 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,sora.com
 DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,anthropicusercontent.com
+PROCESS-NAME,Claude
+PROCESS-NAME,"Claude Helper"
+PROCESS-NAME,"Claude Helper (Plugin)"
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,clau
